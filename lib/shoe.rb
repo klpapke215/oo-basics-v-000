@@ -28,8 +28,8 @@ class Shoe
     @material = material
   end
 
-  def material 
-    @material 
+  def material
+    @material
   end 
 
 end
